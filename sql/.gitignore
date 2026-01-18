@@ -1,0 +1,11 @@
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
+
+# Python junk (if you use notebooks later)
+__pycache__/
+*.pyc
+.venv/
+
+# Databricks exports / misc
+*.dbc
