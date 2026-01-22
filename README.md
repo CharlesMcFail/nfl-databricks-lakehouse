@@ -123,9 +123,6 @@ Details and next steps: `docs/limitations.md`
 
 ---
 
-## About Me (optional, but HIGHLY recommended)
-If you’re hiring for Data Analyst / Analytics Engineer roles, I’d love to connect.
-
 What I’m strong at:
 - SQL (Databricks/Spark style)
 - building clean, validated datasets
